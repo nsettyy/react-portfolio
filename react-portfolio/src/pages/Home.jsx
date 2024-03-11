@@ -5,16 +5,15 @@ export default function Home() {
     <div className="home">
       <h1>Welcome to my Portfolio!</h1>
       <p>
-        As a web development student, I have made this portfolio to showcase my
+        My name is Nick Settembrino. As a web development student, I have made this portfolio to showcase my
         various projects and to help people learn more about me.
       </p>
-      <h2>Contact me!</h2>
-      <ul>
-        <li>
-          <a href="https://github.com/nsettyy">Github</a>
-        </li>
-        <li>Email- nsett7388@gmail.com</li>
-      </ul>
+      <p>
+        In the About Me page, you can find more information about me and how I became interested in web development. 
+      </p>
+      <p>
+        Click on the projects link to view my completed projects. You can also view the rest of my projects on my Github account. 
+      </p>
     </div>
   );
 }

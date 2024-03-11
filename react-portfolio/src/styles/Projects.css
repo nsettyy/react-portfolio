@@ -2,4 +2,23 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 2rem;
     text-align: center;
+    background-color: rgb(120, 218, 169);
+    
+}
+
+.projects h1 {
+    text-decoration: underline;
+}
+
+.row {
+    display: flex;
+    padding-bottom: 3rem;
+}
+
+.column {
+    flex: 1;
+}
+
+.title {
+    font-size: 1.5rem;
 }

@@ -1,7 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
 import "../styles/Nav.css";
 
-function NavTabs() {
+function Nav() {
   const currentPage = useLocation().pathname;
 
   return (
@@ -22,4 +22,4 @@ function NavTabs() {
   );
 }
 
-export default NavTabs;
+export default Nav;

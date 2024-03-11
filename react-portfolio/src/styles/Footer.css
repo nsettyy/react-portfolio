@@ -1,17 +1,17 @@
-.header ul {
+.footer ul {
     background-color: white;
     color: black;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
-    border-bottom: solid black 0.25rem;
-    flex-direction: row;
+    border-top: solid black 0.25rem;
+    lex-direction: row;
     list-style: none;
     justify-content: center;
 }
 
-.header ul li {
+.footer ul li {
+    padding-top: 1rem;
     padding-left: 2rem;
     padding-right: 2rem;
-    padding-bottom: 1rem;
 }
