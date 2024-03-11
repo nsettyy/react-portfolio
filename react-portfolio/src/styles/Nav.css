@@ -1,0 +1,19 @@
+.header {
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    padding-bottom: 2rem;
+}
+
+.header ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: end;
+}
+
+.header ul li {
+    padding: 2rem;
+}

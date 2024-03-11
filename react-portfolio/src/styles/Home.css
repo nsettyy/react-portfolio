@@ -1,0 +1,30 @@
+.home {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2rem;
+    background-color: mintcream;
+}
+
+.home h1 {
+    text-align: center;
+    font-size: 3rem;
+    padding: 1rem
+}
+
+.home p {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem
+}
+
+.home h2 {
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem
+}
+
+.home ul {
+    text-align: center;
+    font-size: 1.5rem;
+    list-style: none;
+    padding: 1rem
+}

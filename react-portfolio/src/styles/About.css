@@ -1,0 +1,14 @@
+.about {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2rem;
+}
+
+.about h1 {
+    font-size: 3rem;
+    padding: 1rem
+}
+
+.about p {
+    font-size: 1.5rem;
+    padding: 1rem
+}
