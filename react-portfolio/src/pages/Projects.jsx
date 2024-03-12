@@ -15,7 +15,7 @@ export default function Projects() {
         <project1 class="column">
           <p class="title">ourspace</p>
           <p class="description">
-            A site that allows apartmnet hunters and their roomates to store
+            A site that allows apartment hunters and their roomates to store
             their listings.
           </p>
           <img id="ourspace" src={Ourspace} alt="ourspace" height="200px" />
