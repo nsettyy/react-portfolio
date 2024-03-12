@@ -2,7 +2,7 @@
   ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 
 ## Description
-This is amy portfolio built using React.
+This is my portfolio built using React.
 
 ## Deployed Site
 ![Render Link](https://nsetty-react-portfolio.onrender.com/)
