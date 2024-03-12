@@ -17,6 +17,9 @@ function Nav() {
         <li>
           <Link to="/Projects">Projects</Link>
         </li>
+        <li>
+          <Link to="/Resume">Resume</Link>
+        </li>
       </ul>
     </header>
   );

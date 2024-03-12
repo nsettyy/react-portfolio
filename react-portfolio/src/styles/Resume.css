@@ -1,0 +1,14 @@
+.resume {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 2rem;
+    background-color: rgb(120, 218, 169);
+}
+
+.resume h1 {
+    font-size: 1rem;
+    padding: 1rem
+}
+
+.resume ul li {
+    padding: 0.2rem;
+}
